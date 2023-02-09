@@ -1,0 +1,26 @@
+.container-header {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.container-header ul {
+    display: flex;
+    list-style: none;
+}
+
+.container-header li {
+    padding: 1em;
+}
+
+.titulo {
+    display: flex;
+    text-align: center;
+    margin-left: .5em;
+}
+
+.titulo span {
+    padding: .1em;
+    
+}
